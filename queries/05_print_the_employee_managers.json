@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "63ff3cb5bea6e78979bf8385",
+    "id": 838,
+    "lead": 738,
+    "name": "Lynette Weldon",
+    "managers": [
+      {
+        "_id": "63ff3cb5bea6e78979bf805e",
+        "id": 3,
+        "lead": 2,
+        "name": "Julie Mcduffy",
+        "depth": 5
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf805d",
+        "id": 5,
+        "lead": 4,
+        "name": "Kendall Paduano",
+        "depth": 3
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf805c",
+        "id": 6,
+        "lead": 5,
+        "name": "Denise Stewart",
+        "depth": 2
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf8059",
+        "id": 7,
+        "lead": 6,
+        "name": "Ashley Spiers",
+        "depth": 1
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf805b",
+        "id": 1,
+        "lead": -1,
+        "name": "Amanda Allen",
+        "depth": 7
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf832c",
+        "id": 738,
+        "lead": 7,
+        "name": "Raymond Rickman",
+        "depth": 0
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf805a",
+        "id": 2,
+        "lead": 1,
+        "name": "Linda Schulz",
+        "depth": 6
+      },
+      {
+        "_id": "63ff3cb5bea6e78979bf8046",
+        "id": 4,
+        "lead": 3,
+        "name": "Allen Bernat",
+        "depth": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "leadOf": [
+      "Irene Richardson"
+    ],
+    "name": "Judith Hartsock",
+    "id": 267,
+    "lead": 266
+  },
+  {
+    "leadOf": [
+      "Irene Richardson"
+    ],
+    "name": "Jimmy Jorgensen",
+    "id": 266,
+    "lead": 242
+  },
+  {
+    "leadOf": [
+      "Irene Richardson"
+    ],
+    "name": "Jordan Mead",
+    "id": 242,
+    "lead": 222
+  },
+  {
+    "leadOf": [
+      "Irene Richardson"
+    ],
+    "name": "Doreen Mickens",
+    "id": 222,
+    "lead": 8
+  },
+  {
+    "leadOf": [
+      "Irene Richardson"
+    ],
+    "name": "Eva Dunston",
+    "id": 8,
+    "lead": 7
+  },
+  {
+    "leadOf": [
+      "Irene Richardson",
+      "Loraine Franklin"
+    ],
+    "name": "Ashley Spiers",
+    "id": 7,
+    "lead": 6
+  },
+  {
+    "leadOf": [
+      "Loraine Franklin"
+    ],
+    "name": "John Larsen",
+    "id": 481,
+    "lead": 480
+  },
+  {
+    "leadOf": [
+      "Loraine Franklin"
+    ],
+    "name": "Sarah Phillips",
+    "id": 480,
+    "lead": 476
+  },
+  {
+    "leadOf": [
+      "Loraine Franklin"
+    ],
+    "name": "John Johnson",
+    "id": 476,
+    "lead": 7
+  }
+]
